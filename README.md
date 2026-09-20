@@ -1,2 +1,2 @@
 # Calendar
-Green Beacons Calendar
+Mbusi's Calendar
